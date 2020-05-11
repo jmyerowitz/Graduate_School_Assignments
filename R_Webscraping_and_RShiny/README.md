@@ -10,4 +10,4 @@ If you would like to check out the live version of the RShiny App, please feel f
 
 *app.R*: The actual R script to create the RShiny App.
 
-
+*MaineCluster.ipynb and WebScrapeClustering.ipynb*: Jupyter Notebooks with the workflow and code to conduct PCA and K-Means Clustering on Maine trails, NH trails, and Maine and NH trails together.
