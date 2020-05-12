@@ -10,4 +10,4 @@ A case analysis from December 2019 that highlighted many techniqes that had been
 
 •	Conducting multiple machine learning algorithms (KNN, Random Forest, Gradient Boost, XGBoost) for classification purposes and to predict star-rating based on token frequencies.
 
-There were many lessons learned in this assingment, including the limitations of my local machine's processing power and putting in hours and days of work for models that are only 45-ish% accurate. While the algorithms used are powerful, sometimes they're not quite the right tool for the job.
+There were many lessons learned in this assignment, including the limitations of my local machine's processing power and putting in hours and days of work for models that are only 45-ish% accurate. While the algorithms used are powerful, sometimes they're not quite the right tool for the job.
