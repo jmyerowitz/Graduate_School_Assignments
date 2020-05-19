@@ -1,0 +1,3 @@
+Hot and fresh of the stove, this assignment was the culmination of our Masters Degree. We were assigned to come up with our own problem regarding neural networks. My classmate and I decided to address the *Skin Cancer MNIST HAM10000* dataset that can be found [here](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000) on Kaggle.
+
+Our final framework consists of two "blocks" of convolutional layers, with a fully connected neural network after. We acheived in accuracy of ~77% on the test set, but there is plenty of improvement to be made, especially in regards to the precision and recall of the our 7-class problem. 
